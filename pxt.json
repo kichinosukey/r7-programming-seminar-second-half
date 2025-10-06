@@ -1,0 +1,27 @@
+{
+    "name": "R7-programming-seminar-202511",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "radio": "*",
+        "microphone": "*",
+        "vertical-compass": "github:kichinosukey/vertical-compass#6f17e630769a928f6df2071c05950bd161f62567",
+        "maqueen": "github:dfrobot/pxt-maqueen#v1.7.16"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "target": "8.0.16",
+        "targetId": "microbit"
+    },
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "blocksprj"
+}
