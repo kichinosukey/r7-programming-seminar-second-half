@@ -1,6 +1,6 @@
 {
     "name": "R7-programming-seminar-202511",
-    "version": "0.0.1",
+    "version": "1.0.0",
     "description": "",
     "dependencies": {
         "core": "*",
